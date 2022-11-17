@@ -1,0 +1,27 @@
+img {
+    height: 100%;
+    width: 100%;
+
+   }
+   .poste1 {
+    height:800px;
+    width: 400px;
+   }
+   .poste {
+    height:800px;
+    width: 400px;
+   }
+   .formulario {
+    height:800px;
+    width: 400px;
+   }
+h1{
+    color: aliceblue;
+    font-family: font-family;
+
+}
+label{
+    color: aliceblue;
+    font-family: font-family;
+
+}
