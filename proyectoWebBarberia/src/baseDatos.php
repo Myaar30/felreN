@@ -1,9 +1,9 @@
 <?php
    //host del servidor
-   $host = 'cs.ilab.cl';
-   $usu = '2_BD_47';
-   $pass = '9Cu37fQU1Zj3qDao';
-   $bbdd = '2_BD_47';
+   $host = 'localhost';
+   $usu = '';
+   $pass = '';
+   $bbdd = '';
    //conector a la base de datos 
    $bd = new mysqli();
    // se genera la conexion
